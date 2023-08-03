@@ -1,7 +1,2 @@
 # Practice
 
-# Blazor
-
-# Services
-
-# HTML
