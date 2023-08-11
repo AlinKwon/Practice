@@ -1,0 +1,11 @@
+﻿.btn-success {
+    border: 2px dashed blue;
+    padding: 1em;
+    margin: 1em 0;
+}
+
+.btn-darkmode-success {
+    border: 2px dashed black;
+    padding: 1em;
+    margin: 1em 0;
+}
